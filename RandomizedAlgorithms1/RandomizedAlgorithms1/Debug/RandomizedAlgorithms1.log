@@ -1,0 +1,18 @@
+﻿  main.cpp
+c:\users\albin\documents\visual studio 2015\projects\randomizedalgorithms1\randomizedalgorithms1\main.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\albin\documents\visual studio 2015\projects\randomizedalgorithms1\randomizedalgorithms1\main.cpp(17): warning C4018: '<': signed/unsigned mismatch
+c:\users\albin\documents\visual studio 2015\projects\randomizedalgorithms1\randomizedalgorithms1\main.cpp(63): warning C4018: '<': signed/unsigned mismatch
+c:\users\albin\documents\visual studio 2015\projects\randomizedalgorithms1\randomizedalgorithms1\main.cpp(73): warning C4018: '<': signed/unsigned mismatch
+c:\users\albin\documents\visual studio 2015\projects\randomizedalgorithms1\randomizedalgorithms1\main.cpp(92): warning C4018: '>=': signed/unsigned mismatch
+c:\users\albin\documents\visual studio 2015\projects\randomizedalgorithms1\randomizedalgorithms1\main.cpp(104): warning C4018: '<': signed/unsigned mismatch
+c:\users\albin\documents\visual studio 2015\projects\randomizedalgorithms1\randomizedalgorithms1\main.cpp(114): warning C4018: '<': signed/unsigned mismatch
+c:\users\albin\documents\visual studio 2015\projects\randomizedalgorithms1\randomizedalgorithms1\main.cpp(137): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\albin\documents\visual studio 2015\projects\randomizedalgorithms1\randomizedalgorithms1\main.cpp(138): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\albin\documents\visual studio 2015\projects\randomizedalgorithms1\randomizedalgorithms1\main.cpp(145): warning C4018: '<': signed/unsigned mismatch
+c:\users\albin\documents\visual studio 2015\projects\randomizedalgorithms1\randomizedalgorithms1\main.cpp(168): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\albin\documents\visual studio 2015\projects\randomizedalgorithms1\randomizedalgorithms1\main.cpp(197): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\albin\documents\visual studio 2015\projects\randomizedalgorithms1\randomizedalgorithms1\main.cpp(205): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\albin\documents\visual studio 2015\projects\randomizedalgorithms1\randomizedalgorithms1\main.cpp(213): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\albin\documents\visual studio 2015\projects\randomizedalgorithms1\randomizedalgorithms1\main.cpp(229): warning C4018: '<': signed/unsigned mismatch
+  RandomizedAlgorithms1.vcxproj -> C:\Users\Albin\documents\visual studio 2015\Projects\RandomizedAlgorithms1\Debug\RandomizedAlgorithms1.exe
+  RandomizedAlgorithms1.vcxproj -> C:\Users\Albin\documents\visual studio 2015\Projects\RandomizedAlgorithms1\Debug\RandomizedAlgorithms1.pdb (Partial PDB)
